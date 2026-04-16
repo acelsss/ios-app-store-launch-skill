@@ -1,0 +1,17 @@
+{
+  "output_root": "AppStoreAssets/web_pages",
+  "app_slug": "example-app",
+  "app_name": "Example App",
+  "developer": "Developer Name",
+  "contact_email": "support@example.com",
+  "effective_date": "2026-01-01",
+  "copyright_year": "2026",
+  "languages": {
+    "en": {
+      "label": "English",
+      "app_name": "Example App",
+      "support_title": "Support",
+      "privacy_title": "Privacy Policy"
+    }
+  }
+}

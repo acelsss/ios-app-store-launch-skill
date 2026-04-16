@@ -1,0 +1,17 @@
+{
+  "local_only": {
+    "en": "Core processing is performed locally on your device. The developer does not automatically receive your data.",
+    "zh-Hans": "核心处理在你的设备本地完成。开发者不会自动接收你的数据。",
+    "ja": "主要な処理は端末上で行われます。開発者がデータを自動的に受け取ることはありません。"
+  },
+  "location": {
+    "en": "Location permission is used for the app's stated utility features, such as recording GPS tracks or previewing current location.",
+    "zh-Hans": "定位权限仅用于 App 声明的工具功能，例如记录 GPS 轨迹或预览当前位置。",
+    "ja": "位置情報の権限は、GPS軌跡の記録や現在地のプレビューなど、アプリが説明する機能にのみ使用されます。"
+  },
+  "photos": {
+    "en": "Photo access is used for the app's stated photo features, such as reading capture time or writing metadata.",
+    "zh-Hans": "照片访问权限仅用于 App 声明的照片功能，例如读取拍摄时间或写入元数据。",
+    "ja": "写真へのアクセスは、撮影時刻の読み取りやメタデータの書き込みなど、アプリが説明する写真機能にのみ使用されます。"
+  }
+}

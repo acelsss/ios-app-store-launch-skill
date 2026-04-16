@@ -1,0 +1,26 @@
+{
+  "output_root": "AppStoreAssets/screenshots",
+  "overview": true,
+  "sets": [
+    {
+      "id": "iphone",
+      "size": [1284, 2778],
+      "canvas_size": [1320, 2868],
+      "device_width": 900,
+      "device_position": [210, 800],
+      "languages": {
+        "en": { "raw": "AppStoreAssets/raw/iphone/en/01.png" }
+      },
+      "themes": [
+        {
+          "filename": "01_core_promise.png",
+          "eyebrow": { "en": "Core Feature" },
+          "headline": { "en": "Real app UI\nwith clear value" },
+          "subtitle": { "en": "Use a real simulator screenshot and add marketing copy outside the app UI." },
+          "pills": { "en": ["Real UI", "Localized", "Sized"] },
+          "accent": "#097747"
+        }
+      ]
+    }
+  ]
+}

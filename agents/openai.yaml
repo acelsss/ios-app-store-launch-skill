@@ -1,0 +1,8 @@
+interface:
+  display_name: "iOS App Store Launch"
+  short_description: "Prepare iOS App Store launch assets"
+  brand_color: "#2563EB"
+  default_prompt: "Use $ios-app-store-launch to prepare this iOS app for App Store submission."
+
+policy:
+  allow_implicit_invocation: true
